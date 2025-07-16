@@ -43,6 +43,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RibeiroMa/RibeiroMa/output/snake.svg" alt="Snake animation" />
 
 ###
